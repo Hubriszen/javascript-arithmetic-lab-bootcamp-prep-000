@@ -4,3 +4,4 @@ multiply(2*3.4)
 divide
 
 var number=6
+parseInt('nonsense!', 10)
