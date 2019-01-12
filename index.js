@@ -21,3 +21,4 @@ console.log(roughScale(' 0xF', 16));
 
 console.log(roughScale('321', 2));
 // expected output: 0
+
